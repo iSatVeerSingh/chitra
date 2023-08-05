@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/iSatVeerSingh/chitra/issues"
   },
-  "homepage": "https://github.com/iSatVeerSingh/chitra#readme"
+  "homepage": "https://github.com/iSatVeerSingh/chitra#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
 }
