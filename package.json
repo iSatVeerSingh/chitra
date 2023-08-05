@@ -1,0 +1,25 @@
+{
+  "name": "chitra",
+  "version": "1.0.0",
+  "description": "Chitra is an opensource drawing tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSatVeerSingh/chitra.git"
+  },
+  "keywords": [
+    "Chitra",
+    "drawing",
+    "drawing",
+    "tool"
+  ],
+  "author": "SatVeer Singh (@iSatVeerSingh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iSatVeerSingh/chitra/issues"
+  },
+  "homepage": "https://github.com/iSatVeerSingh/chitra#readme"
+}
