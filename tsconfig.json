@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "strict": true,
+    "module": "ESNext",
+    "allowJs": true,
+    "moduleResolution": "Node",
+    "sourceMap": true
+  },
+  "include": ["./src/**/*.ts", "./src/**/*.js"]
+}
